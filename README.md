@@ -4,7 +4,7 @@ Template is from instructor Scott Brunswig who gave our class permission to use 
 
 For this assignment you will need to install npm, to install it type in the following -- "npm init -y" -- which will give you a package.json file. After that you can install the dependencies required for your application to run. For this example it calls for the following dependencies --
 
-    "bcrypt":
+    "bcrypt"
     "connect-session-sequelize"
     "dotenv"
     "express"
